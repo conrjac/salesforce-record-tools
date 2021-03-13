@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Person Account First Name</label>
+    <protected>false</protected>
+    <values>
+        <field>Field__c</field>
+        <value xsi:type="xsd:string">FirstName</value>
+    </values>
+    <values>
+        <field>First_Characters__c</field>
+        <value xsi:type="xsd:double">3.0</value>
+    </values>
+    <values>
+        <field>Input_Field__c</field>
+        <value xsi:type="xsd:string">Forname</value>
+    </values>
+    <values>
+        <field>Match_Type__c</field>
+        <value xsi:type="xsd:string">Partial</value>
+    </values>
+    <values>
+        <field>Matching_Algorithm__c</field>
+        <value xsi:type="xsd:string">Algorithm_A</value>
+    </values>
+    <values>
+        <field>Object__c</field>
+        <value xsi:type="xsd:string">Contact</value>
+    </values>
+</CustomMetadata>
